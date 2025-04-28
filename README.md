@@ -1,1 +1,1 @@
-##Simple Go
+##Go Application for basic CRUD Operations, nothing fancy here :P
